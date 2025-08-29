@@ -1,3 +1,8 @@
+/*
+Código atualizado por Mateus Fernandes Barbosa
+Matrícula: 810286
+*/
+
 #include <stdio.h>
 #include <omp.h>
 
